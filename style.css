@@ -140,6 +140,8 @@ section {
     margin-left: 50px;
     padding-right: 50px;
     margin-top: 50px;
+    width: 600px;
+    height: 500px;
 }
 
 .half-second-width p {
@@ -147,6 +149,7 @@ section {
     margin-top: 0;
     margin-bottom: 50px;
     padding: 20px 20px 20px 0px;
+    padding-right: 80px;
 }
 
 .half-third-width {
@@ -158,9 +161,9 @@ section {
 
 .half-third-width img {
     width: 600px;
-    height: 400px;
+    height: 500px;
     padding-left: 180px;
-    margin-top: 50px;
+    margin-top: 40px;
 }
 
 .half-third-width p {
