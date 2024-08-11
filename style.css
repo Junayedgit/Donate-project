@@ -24,6 +24,10 @@ h1 {
     line-height: 1.5;
 }
 
+.cover h1 {
+    margin-bottom: 0;
+}
+
 .cover p {
     font-size: 25px;
     font-weight: normal;
