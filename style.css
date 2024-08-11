@@ -56,6 +56,11 @@ h3 {
 .hero-second {
     text-align: center;
     margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.hero-second p {
+    color: gray;
 }
 
 section {
