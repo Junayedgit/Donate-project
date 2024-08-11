@@ -112,6 +112,7 @@ section {
     margin: 20px;
     padding: 50px 20px;
     text-align: start;
+    margin-bottom: 100px;
 
 
 }
@@ -126,4 +127,23 @@ section {
 
 #edu {
     background-color: rgb(173, 247, 247);
+}
+
+.half-second-width {
+    width: 80%;
+    margin-left: 12%;
+    text-align: start;
+
+}
+
+.half-second-width img {
+    margin-left: 50px;
+    padding-right: 50px;
+    margin-top: 30px;
+}
+
+.half-second-width p {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 50px;
 }
