@@ -139,11 +139,33 @@ section {
 .half-second-width img {
     margin-left: 50px;
     padding-right: 50px;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 .half-second-width p {
     font-size: 16px;
     margin-top: 0;
     margin-bottom: 50px;
+    padding: 20px 20px 20px 0px;
+}
+
+.half-third-width {
+    width: 100%;
+    text-align: start;
+    margin-top: 100px;
+
+}
+
+.half-third-width img {
+    width: 600px;
+    height: 400px;
+    padding-left: 180px;
+    margin-top: 50px;
+}
+
+.half-third-width p {
+    margin-bottom: 50px;
+    text-align: start;
+    padding-right: 180px;
+
 }
