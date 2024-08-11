@@ -16,7 +16,7 @@ h2 {
 
 h3 {
     font-size: 28px;
-    color: gray;
+    color: black;
 }
 
 .background {
@@ -100,4 +100,30 @@ section {
     color: gray;
     margin-bottom: 50px;
     margin-top: 0;
+}
+
+.half-width {
+    width: 80%;
+    margin-left: 10%;
+
+}
+
+.box {
+    margin: 20px;
+    padding: 50px 20px;
+    text-align: start;
+
+
+}
+
+#food {
+    background-color: rgb(250, 185, 185);
+}
+
+#shelter {
+    background-color: rgb(168, 168, 248);
+}
+
+#edu {
+    background-color: rgb(173, 247, 247);
 }
