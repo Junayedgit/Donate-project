@@ -200,8 +200,9 @@ input[type=submit]:hover {
 
 footer {
     background-color: black;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
     padding-top: 10px;
     margin-top: 10%;
     margin-bottom: 0;
+    line-height: 0;
 }
